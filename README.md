@@ -1,6 +1,6 @@
 # 🛠️ Kitchen Renovation AI Agent with Gemini, ADK & Vertex AI
 
-This project demonstrates how to build and deploy an autonomous AI agent using Google’s Agent Development Kit (ADK), Gemini 1.5 Pro, and Vertex AI. The goal? Automatically generate a detailed renovation proposal for a kitchen remodel using the power of multi-agent collaboration, structured prompt engineering, and AI-driven decision-making.
+This project demonstrates how to build and deploy an autonomous AI agent using Google’s Agent Development Kit (ADK), Gemini 1.5 Pro, and Vertex AI. The goal? Automatically generate a detailed renovation proposal for a kitchen remodel using the power of multi-agent collaboration, structured prompt engineering, and AI-driven decision-making. This was created part of Code Vipaasana program organised by Ms. Abhirami- Lead Developer Advocate, Google and team
 
 > 🚀 Designed to show how AI agents can solve real-world tasks, even ones you never thought you'd automate—like remodeling your kitchen!
 
