@@ -26,6 +26,7 @@ This project demonstrates how to build and deploy an autonomous AI agent using G
 | AllowDB         | Lightweight, ephemeral key-value store            |
 | Cloud Storage   | Save generated documents                          |
 | Cloud Shell     | Agent testing and simulation                      |
+| Python 3.10+    | Primary language used for agent logic and orchestration |
 
 ---
 
